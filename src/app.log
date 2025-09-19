@@ -1,0 +1,686 @@
+2025-09-10T22:53:52.397Z [info]: Server Started on PORT:3000
+2025-09-10T22:54:00.952Z [info]: Incoming POST : /register
+2025-09-10T22:54:15.480Z [info]: Incoming POST : /login
+2025-09-10T22:56:11.545Z [info]: Server Started on PORT:3000
+2025-09-10T22:56:17.096Z [info]: Incoming POST : /login
+2025-09-10T22:56:17.270Z [info]: Invalid Login Info
+2025-09-11T16:25:16.759Z [info]: Server Started on PORT:3000)}
+2025-09-11T16:25:29.220Z [info]: Incoming POST : /login)}
+2025-09-11T16:25:29.442Z [info]: User: jojoa Found.)}
+2025-09-11T16:25:29.443Z [info]: Invalid Login Info passy)}
+2025-09-11T16:28:23.530Z [info]: Server Started on PORT:3000)}
+2025-09-11T16:28:28.563Z [info]: Incoming POST : /login)}
+2025-09-11T16:28:28.727Z [info]: User: jojoa Found.)}
+2025-09-11T16:28:28.729Z [info]: Login failed: passwords do not match "jojoa" != passy)}
+2025-09-11T16:29:00.701Z [info]: Server Started on PORT:3000)}
+2025-09-11T16:29:02.603Z [info]: Incoming POST : /login)}
+2025-09-11T16:29:02.808Z [info]: User: jojoa Found.)}
+2025-09-11T16:29:02.818Z [info]: Login failed: passwords do not match "passy" != passy)}
+2025-09-11T17:33:31.483Z [info]: Server Started on PORT:3000)}
+2025-09-11T17:35:08.406Z [info]: Server Started on PORT:3000)}
+2025-09-11T17:35:14.785Z [info]: Incoming POST : /register)}
+2025-09-11T17:35:14.957Z [info]: Could not find jojoa)}
+2025-09-11T17:35:14.982Z [info]: User created jojoa)}
+2025-09-11T17:35:36.908Z [info]: Incoming POST : /login)}
+2025-09-11T17:35:36.935Z [info]: User: jojoa Found.)}
+2025-09-11T17:35:37.004Z [info]: Login successful for user "jojoa")}
+2025-09-11T17:35:43.098Z [info]: Incoming POST : /register)}
+2025-09-11T17:35:43.118Z [info]: User: jojoa Found.)}
+2025-09-11T17:35:43.191Z [info]: User created jojoa)}
+2025-09-11T17:42:35.788Z [info]: Server Started on PORT:3000)}
+2025-09-11T17:42:42.360Z [info]: Incoming POST : /register)}
+2025-09-11T17:42:42.553Z [info]: User: jojoa Found.)}
+2025-09-11T17:42:42.558Z [info]: User created jojoa)}
+2025-09-11T17:44:12.881Z [info]: Server Started on PORT:3000)}
+2025-09-11T17:44:16.751Z [info]: Incoming POST : /register)}
+2025-09-11T17:44:16.944Z [info]: User: jojoa Found.)}
+2025-09-11T17:44:16.968Z [info]: User created jojoa)}
+2025-09-11T17:45:06.349Z [info]: Server Started on PORT:3000)}
+2025-09-11T17:45:08.729Z [info]: Incoming POST : /register)}
+2025-09-11T17:45:08.940Z [info]: User: jojoa Found.)}
+2025-09-11T17:45:08.952Z [info]: User created jojoa)}
+2025-09-11T17:45:42.173Z [info]: Server Started on PORT:3000)}
+2025-09-11T17:45:43.790Z [info]: Incoming POST : /register)}
+2025-09-11T17:45:44.043Z [info]: User: jojoa Found.)}
+2025-09-11T17:45:44.051Z [info]: User created jojoa)}
+2025-09-11T18:00:09.981Z [info]: Server Started on PORT:3000)}
+2025-09-11T18:00:14.326Z [info]: Incoming POST : /register)}
+2025-09-11T18:00:14.527Z [info]: User: jojoa Found.)}
+2025-09-11T18:00:14.551Z [info]: User created jojoa)}
+2025-09-11T18:01:32.264Z [info]: Server Started on PORT:3000)}
+2025-09-11T18:01:34.634Z [info]: Incoming POST : /register)}
+2025-09-11T18:01:34.795Z [info]: User: jojoa Found.)}
+2025-09-11T18:01:34.855Z [info]: User created jojoa)}
+2025-09-11T18:02:59.837Z [info]: Server Started on PORT:3000)}
+2025-09-11T18:03:01.932Z [info]: Incoming POST : /register)}
+2025-09-11T18:03:02.103Z [info]: User: jojoa Found.)}
+2025-09-11T18:03:02.106Z [info]: User: jojoa Found.)}
+2025-09-11T18:03:02.151Z [info]: User created jojoa)}
+2025-09-11T18:04:15.086Z [info]: Server Started on PORT:3000)}
+2025-09-11T18:04:17.335Z [info]: Incoming POST : /register)}
+2025-09-11T18:04:17.517Z [info]: User: jojoa Found.)}
+2025-09-11T18:04:17.524Z [info]: User: jojoa Found.)}
+2025-09-11T18:04:17.525Z [info]: This username has already been taken jojoa)}
+2025-09-11T18:21:10.972Z [info]: Server Started on PORT:3000)}
+2025-09-11T18:21:13.778Z [info]: Incoming POST : /register)}
+2025-09-11T18:21:13.937Z [info]: User: jojoa Found.)}
+2025-09-11T18:21:13.937Z [info]: This username has already been taken jojoa)}
+2025-09-11T19:33:00.405Z [info]: Server Started on PORT:3000)}
+2025-09-11T19:33:11.033Z [info]: Incoming POST : /register)}
+2025-09-11T19:33:11.247Z [info]: User: jojoa Found.)}
+2025-09-11T19:33:11.394Z [info]: User created jojoa)}
+2025-09-11T19:36:39.214Z [info]: Server Started on PORT:3000)}
+2025-09-11T19:36:44.202Z [info]: Incoming POST : /register)}
+2025-09-11T19:36:44.390Z [info]: User: jojoa Found.)}
+2025-09-11T19:36:44.390Z [info]: This username has already been taken jojoa)}
+2025-09-11T19:36:57.669Z [info]: Incoming POST : /register)}
+2025-09-11T19:37:16.837Z [info]: Incoming POST : /register)}
+2025-09-11T19:37:19.747Z [info]: Incoming POST : /register)}
+2025-09-12T20:52:12.579Z [info]: Server Started on PORT:3000)}
+2025-09-12T20:53:00.982Z [info]: Incoming POST : /login)}
+2025-09-12T20:53:03.268Z [info]: User: jojoa Found.)}
+2025-09-12T20:53:03.428Z [info]: Login successful for user "jojoa")}
+2025-09-12T22:33:06.074Z [info]: Server Started on PORT:3000)}
+2025-09-12T22:34:15.070Z [info]: Incoming POST : /tickets)}
+2025-09-12T22:37:20.666Z [info]: Server Started on PORT:3000)}
+2025-09-12T22:37:24.383Z [info]: Incoming POST : /tickets)}
+2025-09-12T22:39:01.244Z [info]: Server Started on PORT:3000)}
+2025-09-12T22:39:04.764Z [info]: Incoming POST : /tickets)}
+2025-09-12T22:39:39.980Z [info]: Server Started on PORT:3000)}
+2025-09-12T22:39:42.087Z [info]: Incoming POST : /tickets)}
+2025-09-12T22:39:42.251Z [info]: Ticket #undefined Created By joseph)}
+2025-09-12T22:49:17.150Z [info]: Server Started on PORT:3000)}
+2025-09-12T22:49:20.464Z [info]: Incoming POST : /tickets)}
+2025-09-12T22:49:20.655Z [info]: Ticket #441772f8-d984-41da-8557-3cdb88e9ebe6 Created By joseph)}
+2025-09-12T22:50:24.217Z [info]: Server Started on PORT:3000)}
+2025-09-12T22:50:29.471Z [info]: Incoming POST : /tickets)}
+2025-09-12T22:50:29.632Z [info]: Ticket #undefined Created By joseph3)}
+2025-09-12T22:50:35.563Z [info]: Incoming POST : /tickets)}
+2025-09-12T22:50:35.585Z [info]: Ticket #undefined Created By joseph3)}
+2025-09-13T00:23:32.774Z [info]: Server Started on PORT:3000)}
+2025-09-13T00:23:43.577Z [info]: Incoming POST : /tickets)}
+2025-09-13T00:23:47.984Z [info]: Incoming POST : /tickets)}
+2025-09-13T00:23:48.140Z [error]: One or more parameter values were invalid: Missing the key ticket_id in the item)}
+2025-09-13T00:23:48.140Z [info]: Ticket #ef78c54e-8ec5-488b-ae71-4f1a71487790 Created By joseph34)}
+2025-09-13T00:23:52.927Z [info]: Incoming POST : /tickets)}
+2025-09-13T00:23:58.582Z [info]: Incoming POST : /tickets)}
+2025-09-13T00:24:06.316Z [info]: Incoming POST : /tickets)}
+2025-09-13T00:24:09.723Z [info]: Incoming POST : /tickets)}
+2025-09-13T00:24:09.745Z [error]: One or more parameter values were invalid: Missing the key ticket_id in the item)}
+2025-09-13T00:24:09.745Z [info]: Ticket #e18d1ffa-d88c-48a4-a01c-43e662d38dc6 Created By joseph34)}
+2025-09-13T00:25:56.855Z [info]: Server Started on PORT:3000)}
+2025-09-13T00:26:00.293Z [info]: Incoming POST : /tickets)}
+2025-09-13T04:02:07.066Z [info]: Server Started on PORT:3000)}
+2025-09-13T04:02:10.654Z [info]: Incoming GET : /tickets/e18d1ffa-d88c-48a4-a01c-43e662d38dc6)}
+2025-09-13T04:02:10.879Z [info]: 1 validation error detected: Value null at 'key' failed to satisfy constraint: Member must not be null)}
+2025-09-13T04:02:10.879Z [error]: 1 validation error detected: Value null at 'key' failed to satisfy constraint: Member must not be null)}
+2025-09-13T04:06:55.339Z [info]: Server Started on PORT:3000)}
+2025-09-13T04:06:58.388Z [info]: Incoming GET : /tickets/e18d1ffa-d88c-48a4-a01c-43e662d38dc6)}
+2025-09-13T04:06:58.619Z [info]: 1 validation error detected: Value null at 'key' failed to satisfy constraint: Member must not be null)}
+2025-09-13T04:06:58.619Z [error]: 1 validation error detected: Value null at 'key' failed to satisfy constraint: Member must not be null)}
+2025-09-13T04:07:19.935Z [info]: Server Started on PORT:3000)}
+2025-09-13T04:07:21.677Z [info]: Incoming GET : /tickets/e18d1ffa-d88c-48a4-a01c-43e662d38dc6)}
+2025-09-13T04:07:21.874Z [info]: 1 validation error detected: Value null at 'key' failed to satisfy constraint: Member must not be null)}
+2025-09-13T04:07:21.874Z [error]: 1 validation error detected: Value null at 'key' failed to satisfy constraint: Member must not be null)}
+2025-09-13T04:08:35.622Z [info]: Server Started on PORT:3000)}
+2025-09-13T04:08:40.326Z [info]: Incoming GET : /tickets/5b2be3ee-5d8b-4359-ba3b-a1ed26259009)}
+2025-09-13T04:08:40.546Z [info]: 1 validation error detected: Value null at 'key' failed to satisfy constraint: Member must not be null)}
+2025-09-13T04:08:40.546Z [error]: 1 validation error detected: Value null at 'key' failed to satisfy constraint: Member must not be null)}
+2025-09-13T04:10:03.392Z [info]: Server Started on PORT:3000)}
+2025-09-13T04:10:05.069Z [info]: Incoming GET : /tickets/5b2be3ee-5d8b-4359-ba3b-a1ed26259009)}
+2025-09-13T04:10:05.257Z [info]: 1 validation error detected: Value null at 'key' failed to satisfy constraint: Member must not be null)}
+2025-09-13T04:10:05.257Z [error]: 1 validation error detected: Value null at 'key' failed to satisfy constraint: Member must not be null)}
+2025-09-13T04:10:57.193Z [info]: Server Started on PORT:3000)}
+2025-09-13T04:10:59.195Z [info]: Incoming GET : /tickets/5b2be3ee-5d8b-4359-ba3b-a1ed26259009)}
+2025-09-13T21:08:23.242Z [info]: Server Started on PORT:3000)}
+2025-09-13T21:09:16.340Z [info]: Incoming GET : /tickets/5b2be3ee-5d8b-4359-ba3b-a1ed26259009)}
+2025-09-13T21:10:04.166Z [info]: Incoming PATCH : /tickets/5b2be3ee-5d8b-4359-ba3b-a1ed26259009/approve)}
+2025-09-13T21:12:01.200Z [info]: Server Started on PORT:3000)}
+2025-09-13T21:12:03.615Z [info]: Incoming PATCH : /tickets/5b2be3ee-5d8b-4359-ba3b-a1ed26259009/approve)}
+2025-09-13T21:12:53.687Z [info]: Server Started on PORT:3000)}
+2025-09-13T21:12:56.097Z [info]: Incoming GET : /tickets/5b2be3ee-5d8b-4359-ba3b-a1ed26259009)}
+2025-09-13T21:15:37.038Z [info]: Server Started on PORT:3000)}
+2025-09-13T21:15:39.313Z [info]: Incoming PATCH : /tickets/5b2be3ee-5d8b-4359-ba3b-a1ed26259009/approve)}
+2025-09-13T21:17:17.439Z [info]: Server Started on PORT:3000)}
+2025-09-13T21:17:19.494Z [info]: Incoming PATCH : /tickets/5b2be3ee-5d8b-4359-ba3b-a1ed26259009/approve)}
+2025-09-13T21:17:44.491Z [info]: Server Started on PORT:3000)}
+2025-09-13T21:17:46.447Z [info]: Incoming PATCH : /tickets/5b2be3ee-5d8b-4359-ba3b-a1ed26259009/approve)}
+2025-09-13T21:17:46.617Z [info]: Ticket Found)}
+2025-09-13T21:17:46.618Z [info]: ticketDAO.updateStatus is not a function)}
+2025-09-13T21:18:07.328Z [info]: Server Started on PORT:3000)}
+2025-09-13T21:18:09.324Z [info]: Incoming PATCH : /tickets/5b2be3ee-5d8b-4359-ba3b-a1ed26259009/approve)}
+2025-09-13T21:18:09.549Z [info]: Ticket Found)}
+2025-09-13T21:18:09.573Z [info]: ExpressionAttributeNames contains invalid key: Syntax error; key: ":s")}
+2025-09-13T21:21:14.281Z [info]: Server Started on PORT:3000)}
+2025-09-13T21:21:16.505Z [info]: Incoming PATCH : /tickets/5b2be3ee-5d8b-4359-ba3b-a1ed26259009/approve)}
+2025-09-13T21:21:16.701Z [info]: Ticket Found)}
+2025-09-13T21:21:16.720Z [info]: ExpressionAttributeNames contains invalid key: Syntax error; key: ":s")}
+2025-09-13T21:21:37.034Z [info]: Server Started on PORT:3000)}
+2025-09-13T21:21:38.872Z [info]: Incoming PATCH : /tickets/5b2be3ee-5d8b-4359-ba3b-a1ed26259009/approve)}
+2025-09-13T21:21:39.044Z [info]: Ticket Found)}
+2025-09-13T21:21:39.073Z [info]: Invalid UpdateExpression: Attribute name is a reserved keyword; reserved keyword: status)}
+2025-09-13T21:22:29.273Z [info]: Server Started on PORT:3000)}
+2025-09-13T21:22:33.429Z [info]: Incoming PATCH : /tickets/5b2be3ee-5d8b-4359-ba3b-a1ed26259009/approve)}
+2025-09-13T21:22:33.591Z [info]: Ticket Found)}
+2025-09-13T21:22:33.615Z [info]: Invalid UpdateExpression: Attribute name is a reserved keyword; reserved keyword: status)}
+2025-09-13T21:22:52.736Z [info]: Server Started on PORT:3000)}
+2025-09-13T21:22:54.361Z [info]: Incoming PATCH : /tickets/5b2be3ee-5d8b-4359-ba3b-a1ed26259009/approve)}
+2025-09-13T21:22:54.514Z [info]: Ticket Found)}
+2025-09-13T21:38:53.037Z [info]: Server Started on PORT:3000)}
+2025-09-13T21:38:55.209Z [info]: Incoming PATCH : /tickets/5b2be3ee-5d8b-4359-ba3b-a1ed26259009/approve)}
+2025-09-13T21:44:30.678Z [info]: Server Started on PORT:3000)}
+2025-09-13T21:44:32.894Z [info]: Incoming PATCH : /tickets/5b2be3ee-5d8b-4359-ba3b-a1ed26259009/approve)}
+2025-09-13T21:44:33.122Z [info]: Ticket Found)}
+2025-09-13T21:44:33.122Z [info]: Cannot read properties of undefined (reading 'status'))}
+2025-09-13T21:45:16.994Z [info]: Server Started on PORT:3000)}
+2025-09-13T21:45:18.723Z [info]: Incoming PATCH : /tickets/5b2be3ee-5d8b-4359-ba3b-a1ed26259009/approve)}
+2025-09-13T21:45:18.945Z [info]: Ticket Found)}
+2025-09-13T21:45:18.946Z [info]: Cannot read properties of undefined (reading 'status'))}
+2025-09-13T21:46:03.668Z [info]: Server Started on PORT:3000)}
+2025-09-13T21:46:05.654Z [info]: Incoming PATCH : /tickets/5b2be3ee-5d8b-4359-ba3b-a1ed26259009/approve)}
+2025-09-13T21:46:05.859Z [info]: Ticket Found)}
+2025-09-13T21:46:05.860Z [info]: Cannot read properties of undefined (reading 'description'))}
+2025-09-13T21:46:33.758Z [info]: Server Started on PORT:3000)}
+2025-09-13T21:46:36.009Z [info]: Incoming PATCH : /tickets/5b2be3ee-5d8b-4359-ba3b-a1ed26259009/approve)}
+2025-09-13T21:46:36.218Z [info]: Ticket Found)}
+2025-09-13T21:46:36.219Z [info]: Cannot read properties of undefined (reading 'description'))}
+2025-09-13T21:48:51.969Z [info]: Server Started on PORT:3000)}
+2025-09-13T21:48:54.039Z [info]: Incoming PATCH : /tickets/5b2be3ee-5d8b-4359-ba3b-a1ed26259009/approve)}
+2025-09-13T21:48:54.238Z [info]: Ticket Found)}
+2025-09-13T21:48:54.239Z [info]: Cannot read properties of undefined (reading 'description'))}
+2025-09-13T21:51:30.427Z [info]: Server Started on PORT:3000)}
+2025-09-13T21:51:32.139Z [info]: Incoming PATCH : /tickets/5b2be3ee-5d8b-4359-ba3b-a1ed26259009/approve)}
+2025-09-13T21:51:32.400Z [info]: Ticket Found)}
+2025-09-13T21:51:32.401Z [info]: Cannot read properties of undefined (reading 'status'))}
+2025-09-13T21:52:26.326Z [info]: Server Started on PORT:3000)}
+2025-09-13T21:52:28.076Z [info]: Incoming PATCH : /tickets/5b2be3ee-5d8b-4359-ba3b-a1ed26259009/approve)}
+2025-09-13T21:52:28.282Z [info]: Ticket Found -> [object Object])}
+2025-09-13T21:52:28.283Z [info]: Cannot read properties of undefined (reading 'status'))}
+2025-09-13T21:52:40.059Z [info]: Server Started on PORT:3000)}
+2025-09-13T21:52:41.996Z [info]: Incoming PATCH : /tickets/5b2be3ee-5d8b-4359-ba3b-a1ed26259009/approve)}
+2025-09-13T21:52:42.166Z [info]: Ticket Found -> undefined)}
+2025-09-13T21:52:42.167Z [info]: Cannot read properties of undefined (reading 'status'))}
+2025-09-13T21:53:01.489Z [info]: Server Started on PORT:3000)}
+2025-09-13T21:53:05.130Z [info]: Incoming GET : /tickets/5b2be3ee-5d8b-4359-ba3b-a1ed26259009)}
+2025-09-13T21:53:05.295Z [info]: Ticket Found -> undefined)}
+2025-09-13T21:57:06.830Z [info]: Server Started on PORT:3000)}
+2025-09-13T21:57:08.642Z [info]: Incoming GET : /tickets/5b2be3ee-5d8b-4359-ba3b-a1ed26259009)}
+2025-09-13T21:57:08.830Z [info]: Ticket Found -> [object Object])}
+2025-09-13T21:57:19.653Z [info]: Server Started on PORT:3000)}
+2025-09-13T21:57:21.387Z [info]: Incoming GET : /tickets/5b2be3ee-5d8b-4359-ba3b-a1ed26259009)}
+2025-09-13T21:57:21.587Z [info]: Ticket Found -> approve)}
+2025-09-13T21:58:40.223Z [info]: Server Started on PORT:3000)}
+2025-09-13T21:58:41.840Z [info]: Incoming GET : /tickets/5b2be3ee-5d8b-4359-ba3b-a1ed26259009)}
+2025-09-13T21:58:42.050Z [info]: Ticket Found: 5b2be3ee-5d8b-4359-ba3b-a1ed26259009)}
+2025-09-13T21:58:45.421Z [info]: Incoming PATCH : /tickets/5b2be3ee-5d8b-4359-ba3b-a1ed26259009/approve)}
+2025-09-13T21:58:45.438Z [info]: Ticket Found: 5b2be3ee-5d8b-4359-ba3b-a1ed26259009)}
+2025-09-13T21:58:45.439Z [info]: Ticket already resolved)}
+2025-09-13T22:21:14.647Z [info]: Server Started on PORT:3000)}
+2025-09-13T22:21:18.782Z [info]: Incoming PATCH : /tickets/5b2be3ee-5d8b-4359-ba3b-a1ed26259009/approve)}
+2025-09-13T22:21:18.951Z [info]: Cannot read properties of undefined (reading 'ticket_id'))}
+2025-09-13T22:21:18.952Z [info]: Cannot read properties of undefined (reading 'status'))}
+2025-09-13T22:21:44.712Z [info]: Server Started on PORT:3000)}
+2025-09-13T22:21:46.558Z [info]: Incoming PATCH : /tickets/5b2be3ee-5d8b-4359-ba3b-a1ed26259009/approve)}
+2025-09-13T22:21:46.736Z [info]: Ticket Found: 5b2be3ee-5d8b-4359-ba3b-a1ed26259009)}
+2025-09-13T22:21:46.737Z [info]: Cannot read properties of undefined (reading 'status'))}
+2025-09-13T22:26:20.565Z [info]: Server Started on PORT:3000)}
+2025-09-13T22:26:22.267Z [info]: Incoming PATCH : /tickets/5b2be3ee-5d8b-4359-ba3b-a1ed26259009/approve)}
+2025-09-13T22:26:22.451Z [info]: Ticket Found: 5b2be3ee-5d8b-4359-ba3b-a1ed26259009)}
+2025-09-13T22:26:22.451Z [info]: Ticket already resolved)}
+2025-09-13T22:34:15.845Z [info]: Server Started on PORT:3000)}
+2025-09-13T22:34:18.853Z [info]: Incoming GET : /tickets/5b2be3ee-5d8b-4359-ba3b-a1ed26259009)}
+2025-09-13T22:34:19.014Z [info]: Ticket Found: 5b2be3ee-5d8b-4359-ba3b-a1ed26259009)}
+2025-09-13T22:47:22.327Z [info]: Server Started on PORT:3000)}
+2025-09-13T22:47:26.443Z [info]: Incoming PATCH : /tickets/5b2be3ee-5d8b-4359-ba3b-a1ed26259009)}
+2025-09-13T22:47:26.605Z [info]: Ticket Found: 5b2be3ee-5d8b-4359-ba3b-a1ed26259009)}
+2025-09-13T22:47:26.605Z [info]: Ticket already resolved)}
+2025-09-13T22:47:35.219Z [info]: Incoming PATCH : /tickets/5b2be3ee-5d8b-4359-ba3b-a1ed26259009)}
+2025-09-13T22:47:38.730Z [info]: Incoming PATCH : /tickets/5b2be3ee-5d8b-4359-ba3b-a1ed26259009)}
+2025-09-13T22:47:38.742Z [info]: Ticket Found: 5b2be3ee-5d8b-4359-ba3b-a1ed26259009)}
+2025-09-13T22:47:38.743Z [info]: Ticket already resolved)}
+2025-09-14T04:27:54.460Z [info]: Server Started on PORT:3000)}
+2025-09-14T04:28:20.528Z [info]: Incoming POST : /register)}
+2025-09-14T04:28:28.140Z [info]: Incoming POST : /register)}
+2025-09-14T04:28:28.333Z [info]: Could not find raah)}
+2025-09-14T04:28:28.438Z [info]: User created raah)}
+2025-09-14T04:28:35.133Z [info]: Incoming POST : /register)}
+2025-09-14T04:28:35.153Z [info]: Could not find raazaah)}
+2025-09-14T04:28:35.242Z [info]: User created raazaah)}
+2025-09-14T04:29:05.674Z [info]: Incoming POST : /login)}
+2025-09-14T04:29:05.697Z [info]: User: jojoa Found.)}
+2025-09-14T04:29:05.763Z [info]: Login successful for user "jojoa")}
+2025-09-14T04:29:24.230Z [info]: Incoming POST : /register)}
+2025-09-14T04:29:24.255Z [info]: User: raazaah Found.)}
+2025-09-14T04:29:24.255Z [info]: Username already taken!)}
+2025-09-15T00:26:49.761Z [info]: Server Started on PORT:3000)}
+2025-09-15T01:27:45.917Z [info]: Server Started on PORT:3000)}
+2025-09-15T01:27:58.267Z [info]: Incoming POST : /register)}
+2025-09-15T01:27:58.484Z [info]: User: raazaah Found.)}
+2025-09-15T01:27:58.485Z [info]: Username already taken!)}
+2025-09-15T01:43:45.181Z [info]: Server Started on PORT:3000)}
+2025-09-15T01:43:48.283Z [info]: Incoming POST : /register)}
+2025-09-15T01:43:48.445Z [info]: User: raazaah Found.)}
+2025-09-15T01:43:48.446Z [info]: Username already taken!)}
+2025-09-15T02:05:52.118Z [info]: Server Started on PORT:3000)}
+2025-09-15T02:05:56.474Z [info]: Incoming POST : /register)}
+2025-09-15T02:05:56.716Z [info]: Could not find raazaaaah)}
+2025-09-15T02:05:56.830Z [info]: User created raazaaaah)}
+2025-09-15T02:08:43.528Z [info]: Server Started on PORT:3000)}
+2025-09-15T02:08:52.319Z [info]: Incoming POST : /register)}
+2025-09-15T02:08:52.489Z [info]: Could not find raazaaagaah)}
+2025-09-15T02:08:52.587Z [info]: User created raazaaagaah)}
+2025-09-15T02:09:46.143Z [info]: Server Started on PORT:3000)}
+2025-09-15T02:09:48.216Z [info]: Incoming POST : /register)}
+2025-09-15T02:09:48.395Z [info]: User: raazaaagaah Found.)}
+2025-09-15T02:09:48.396Z [info]: Username already taken!)}
+2025-09-15T02:10:13.142Z [info]: Incoming POST : /register)}
+2025-09-15T02:10:13.162Z [info]: Could not find raazaaagaaah)}
+2025-09-15T02:10:13.241Z [info]: User created raazaaagaaah)}
+2025-09-15T02:33:55.249Z [info]: Server Started on PORT:3000)}
+2025-09-15T02:34:01.326Z [info]: Incoming POST : /register)}
+2025-09-15T02:34:01.592Z [info]: Could not find ragaaah)}
+2025-09-15T02:34:01.672Z [info]: User created ragaaah)}
+2025-09-15T21:08:03.632Z [info]: Server Started on PORT:3000)}
+2025-09-15T21:08:12.084Z [info]: Incoming POST : /login)}
+2025-09-15T21:08:12.278Z [info]: User: jojoa Found.)}
+2025-09-15T21:08:12.342Z [info]: data is not defined)}
+2025-09-15T21:09:16.116Z [info]: Incoming POST : /login)}
+2025-09-15T21:09:16.144Z [info]: User: jojoa Found.)}
+2025-09-15T21:09:16.216Z [info]: data is not defined)}
+2025-09-15T21:12:51.243Z [info]: Server Started on PORT:3000)}
+2025-09-15T21:12:53.746Z [info]: Incoming POST : /login)}
+2025-09-15T21:12:53.951Z [info]: User: jojoa Found.)}
+2025-09-15T21:12:54.016Z [info]: data is not defined)}
+2025-09-15T21:13:45.633Z [info]: Server Started on PORT:3000)}
+2025-09-15T21:13:52.150Z [info]: Incoming POST : /login)}
+2025-09-15T21:13:52.342Z [info]: User: jojoa Found.)}
+2025-09-15T21:13:52.406Z [info]: data is not defined)}
+2025-09-15T21:14:23.062Z [info]: Server Started on PORT:3000)}
+2025-09-15T21:14:26.188Z [info]: Incoming POST : /login)}
+2025-09-15T21:14:26.368Z [info]: User: jojoa Found.)}
+2025-09-15T21:14:26.431Z [info]: data is not defined)}
+2025-09-15T21:16:18.064Z [info]: Incoming POST : /login)}
+2025-09-15T21:16:18.148Z [info]: User: jojoa Found.)}
+2025-09-15T21:16:18.211Z [info]: data is not defined)}
+2025-09-15T21:16:23.425Z [info]: Server Started on PORT:3000)}
+2025-09-15T21:16:28.838Z [info]: Incoming POST : /login)}
+2025-09-15T21:16:29.029Z [info]: User: jojoa Found.)}
+2025-09-15T21:16:29.113Z [info]: data is not defined)}
+2025-09-15T21:16:44.922Z [info]: Server Started on PORT:3000)}
+2025-09-15T21:16:47.670Z [info]: Incoming POST : /login)}
+2025-09-15T21:16:47.849Z [info]: User: jojoa Found.)}
+2025-09-15T21:16:47.914Z [info]: data is not defined)}
+2025-09-15T21:17:02.525Z [info]: Server Started on PORT:3000)}
+2025-09-15T21:17:06.196Z [info]: Incoming POST : /login)}
+2025-09-15T21:17:06.411Z [info]: User: jojoa Found.)}
+2025-09-15T21:17:06.474Z [info]: data is not defined)}
+2025-09-15T21:19:58.668Z [info]: Server Started on PORT:3000)}
+2025-09-15T21:20:01.069Z [info]: Incoming POST : /login)}
+2025-09-15T21:20:01.279Z [info]: User: jojoa Found.)}
+2025-09-15T21:20:01.355Z [info]: Login successful for user "jojoa")}
+2025-09-15T21:20:21.998Z [info]: Incoming POST : /login)}
+2025-09-15T21:20:22.022Z [info]: User: jojoa Found.)}
+2025-09-15T21:20:22.088Z [info]: Login successful for user "jojoa")}
+2025-09-15T21:20:26.540Z [info]: Server Started on PORT:3000)}
+2025-09-15T21:20:28.094Z [info]: Incoming POST : /login)}
+2025-09-15T21:20:28.254Z [info]: User: jojoa Found.)}
+2025-09-15T21:20:28.323Z [info]: Login successful for user "jojoa")}
+2025-09-15T21:23:16.218Z [info]: Incoming POST : /tickets)}
+2025-09-15T21:25:43.603Z [info]: Server Started on PORT:3000)}
+2025-09-15T21:25:45.799Z [info]: Incoming POST : /tickets)}
+2025-09-15T21:25:45.964Z [info]: One or more parameter values were invalid: Missing the key ticket_id in the item)}
+2025-09-15T21:25:45.964Z [info]: One or more parameter values were invalid: Missing the key ticket_id in the item)}
+2025-09-15T21:25:45.966Z [info]: Ticket #2e5ca48d-3125-4e8e-89e6-d33329f20c06 Created By undefined)}
+2025-09-15T21:30:18.573Z [info]: Server Started on PORT:3000)}
+2025-09-15T21:30:22.548Z [info]: Incoming POST : /tickets)}
+2025-09-15T21:30:22.731Z [info]: One or more parameter values were invalid: Missing the key ticket_id in the item)}
+2025-09-15T21:30:22.731Z [info]: One or more parameter values were invalid: Missing the key ticket_id in the item)}
+2025-09-15T21:30:22.732Z [info]: Ticket #ecbad92d-e99b-4487-a375-8e4bf26657ec Created By jojoa)}
+2025-09-15T21:33:02.860Z [info]: Server Started on PORT:3000)}
+2025-09-15T21:33:05.643Z [info]: Incoming POST : /tickets)}
+2025-09-15T21:33:05.863Z [info]: Ticket #81eedc15-8d8f-4563-8c48-43c751933476 Created By jojoa)}
+2025-09-16T01:27:43.280Z [info]: Server Started on PORT:3000)}
+2025-09-16T01:28:14.060Z [info]: Incoming POST : /tickets)}
+2025-09-16T01:28:14.066Z [error]: jwt expired)}
+2025-09-16T01:28:47.962Z [info]: Incoming POST : /login)}
+2025-09-16T01:28:48.146Z [info]: User: jojoa Found.)}
+2025-09-16T01:28:48.248Z [info]: Login successful for user "jojoa")}
+2025-09-16T01:29:14.092Z [info]: Incoming POST : /tickets)}
+2025-09-16T01:29:14.209Z [info]: Ticket #925e42bd-101f-4536-b458-768b067ca744 Created By jojoa)}
+2025-09-16T03:10:23.555Z [info]: Server Started on PORT:3000)}
+2025-09-16T03:10:41.074Z [info]: Incoming GET : /tickets/5b2be3ee-5d8b-4359-ba3b-a1ed26259009)}
+2025-09-16T03:10:41.278Z [info]: Ticket Found: 5b2be3ee-5d8b-4359-ba3b-a1ed26259009)}
+2025-09-16T03:10:57.632Z [info]: Incoming POST : /tickets)}
+2025-09-16T03:10:57.635Z [error]: jwt expired)}
+2025-09-16T03:11:02.557Z [info]: Incoming POST : /login)}
+2025-09-16T03:11:02.676Z [info]: User: jojoa Found.)}
+2025-09-16T03:11:02.769Z [info]: Login successful for user "jojoa")}
+2025-09-16T03:11:25.257Z [info]: Incoming POST : /tickets)}
+2025-09-16T03:11:25.280Z [info]: Ticket #991cd1c3-8d24-4bff-841f-17f4b93ddc3a Created By jojoa)}
+2025-09-16T03:11:54.983Z [info]: Incoming GET : /tickets)}
+2025-09-16T03:11:55.013Z [info]: Cannot read properties of undefined (reading 'Items'))}
+2025-09-16T03:11:55.013Z [info]: Cannot read properties of undefined (reading 'Items'))}
+2025-09-16T03:13:46.374Z [info]: Server Started on PORT:3000)}
+2025-09-16T03:13:51.262Z [info]: Incoming GET : /tickets)}
+2025-09-16T03:14:22.584Z [info]: Server Started on PORT:3000)}
+2025-09-16T03:14:24.534Z [info]: Incoming GET : /tickets)}
+2025-09-16T03:21:59.871Z [info]: Server Started on PORT:3000)}
+2025-09-16T03:22:02.216Z [info]: Incoming GET : /tickets)}
+2025-09-16T03:43:56.716Z [info]: Server Started on PORT:3000)}
+2025-09-16T03:44:27.246Z [info]: Incoming GET : /tickets/pending)}
+2025-09-16T03:44:27.417Z [info]: Cannot read properties of undefined (reading 'ticket_id'))}
+2025-09-16T03:44:45.418Z [info]: Incoming GET : /tickets/pending)}
+2025-09-16T03:44:45.439Z [info]: Cannot read properties of undefined (reading 'ticket_id'))}
+2025-09-16T03:45:10.965Z [info]: Incoming GET : /tickets/5b2be3ee-5d8b-4359-ba3b-a1ed26259009)}
+2025-09-16T03:45:10.990Z [info]: Ticket Found: 5b2be3ee-5d8b-4359-ba3b-a1ed26259009)}
+2025-09-16T03:45:15.245Z [info]: Incoming GET : /tickets/pending)}
+2025-09-16T03:45:15.262Z [info]: Cannot read properties of undefined (reading 'ticket_id'))}
+2025-09-16T03:45:55.525Z [info]: Server Started on PORT:3000)}
+2025-09-16T03:45:58.071Z [info]: Incoming GET : /tickets/pending)}
+2025-09-16T03:45:58.320Z [info]: Cannot read properties of undefined (reading 'ticket_id'))}
+2025-09-16T03:46:14.709Z [info]: Incoming GET : /tickets/pendingasdsad)}
+2025-09-16T03:46:14.725Z [info]: Cannot read properties of undefined (reading 'ticket_id'))}
+2025-09-16T03:46:43.188Z [info]: Incoming GET : /tickets/pending)}
+2025-09-16T03:46:43.209Z [info]: Cannot read properties of undefined (reading 'ticket_id'))}
+2025-09-16T03:47:40.547Z [info]: Incoming GET : /tickets/pendingaz)}
+2025-09-16T03:47:40.563Z [info]: Cannot read properties of undefined (reading 'ticket_id'))}
+2025-09-16T03:48:10.846Z [info]: Incoming GET : /)}
+2025-09-16T03:48:23.858Z [info]: Incoming GET : /tickets)}
+2025-09-16T03:48:31.435Z [info]: Incoming GET : /tickets/pending)}
+2025-09-16T03:48:31.457Z [info]: Cannot read properties of undefined (reading 'ticket_id'))}
+2025-09-16T03:48:53.426Z [info]: Incoming GET : /tickets/p)}
+2025-09-16T03:48:53.439Z [info]: Cannot read properties of undefined (reading 'ticket_id'))}
+2025-09-16T03:48:58.214Z [info]: Incoming GET : /)}
+2025-09-16T03:49:03.460Z [info]: Incoming GET : /a)}
+2025-09-16T03:49:21.154Z [info]: Incoming GET : /tickets/)}
+2025-09-16T03:49:24.865Z [info]: Incoming GET : /tickets/o)}
+2025-09-16T03:49:24.880Z [info]: Cannot read properties of undefined (reading 'ticket_id'))}
+2025-09-18T02:54:22.397Z [info]: Server Started on PORT:3000)}
+2025-09-18T02:56:16.531Z [info]: Incoming POST : /login)}
+2025-09-18T02:56:16.688Z [info]: User: jojoa Found.)}
+2025-09-18T02:56:16.755Z [info]: Login successful for user "jojoa")}
+2025-09-18T02:57:06.397Z [info]: Incoming GET : /tickets)}
+2025-09-18T02:58:57.015Z [info]: Incoming POST : /login)}
+2025-09-18T02:58:57.081Z [info]: User: ragaaah Found.)}
+2025-09-18T02:58:57.145Z [info]: Login successful for user "ragaaah")}
+2025-09-18T02:59:12.685Z [info]: Incoming POST : /tickets)}
+2025-09-18T02:59:12.788Z [info]: Ticket #fa47de12-ddb8-4c59-9dd4-9f3a925c5a44 Created By ragaaah)}
+2025-09-18T02:59:36.628Z [info]: Incoming GET : /tickets)}
+2025-09-18T03:01:20.035Z [info]: Server Started on PORT:3000)}
+2025-09-18T03:01:23.887Z [info]: Incoming GET : /tickets)}
+2025-09-18T03:01:35.576Z [info]: Incoming POST : /tickets)}
+2025-09-18T03:01:35.622Z [info]: Ticket #242025ba-0ae9-4e23-8394-0f02bfff4339 Created By ragaaah)}
+2025-09-18T03:01:39.628Z [info]: Incoming GET : /tickets)}
+2025-09-18T03:02:03.121Z [info]: Incoming POST : /register)}
+2025-09-18T03:02:03.207Z [info]: Could not find rachel)}
+2025-09-18T03:02:03.320Z [info]: User created rachel)}
+2025-09-18T03:02:11.242Z [info]: Incoming POST : /login)}
+2025-09-18T03:02:11.262Z [info]: User: rachel Found.)}
+2025-09-18T03:02:11.331Z [info]: Login successful for user "rachel")}
+2025-09-18T03:02:32.093Z [info]: Incoming GET : /tickets)}
+2025-09-18T19:30:09.810Z [info]: Server Started on PORT:3000)}
+2025-09-18T19:30:43.016Z [info]: Incoming POST : /login)}
+2025-09-18T19:30:43.235Z [info]: User: rachel Found.)}
+2025-09-18T19:30:43.342Z [info]: Login successful for user "rachel")}
+2025-09-18T19:31:11.553Z [info]: Incoming GET : /tickets?status=pending)}
+2025-09-18T19:31:11.557Z [info]: Unsupported Action)}
+2025-09-18T19:31:56.109Z [info]: Server Started on PORT:3000)}
+2025-09-18T19:31:58.613Z [info]: Incoming GET : /tickets?status=pending)}
+2025-09-18T19:31:58.630Z [info]: ticketDAO.getPendingTickets is not a function)}
+2025-09-18T19:33:28.535Z [info]: Server Started on PORT:3000)}
+2025-09-18T19:33:31.953Z [info]: Incoming GET : /tickets?status=pending)}
+2025-09-18T19:33:32.208Z [info]: ExpressionAttributeValues must not be empty)}
+2025-09-18T19:33:32.208Z [info]: ExpressionAttributeValues must not be empty)}
+2025-09-18T19:33:32.208Z [info]: ExpressionAttributeValues must not be empty)}
+2025-09-18T19:35:03.211Z [info]: Server Started on PORT:3000)}
+2025-09-18T19:35:05.556Z [info]: Incoming GET : /tickets?status=pending)}
+2025-09-18T19:35:05.563Z [info]: Unsupported Action)}
+2025-09-18T19:35:24.541Z [info]: Server Started on PORT:3000)}
+2025-09-18T19:35:29.375Z [info]: Incoming GET : /tickets?status=pending)}
+2025-09-18T19:35:44.993Z [info]: Incoming GET : /tickets?status=approved)}
+2025-09-18T19:49:05.583Z [info]: Server Started on PORT:3000)}
+2025-09-18T19:49:13.412Z [info]: Incoming POST : /login)}
+2025-09-18T19:49:13.607Z [info]: User: rachel Found.)}
+2025-09-18T19:49:13.674Z [info]: Login successful for user "rachel")}
+2025-09-18T19:49:33.249Z [info]: Incoming PATCH : /tickets/5b2be3ee-5d8b-4359-ba3b-a1ed26259009)}
+2025-09-18T19:50:50.658Z [info]: Server Started on PORT:3000)}
+2025-09-18T19:50:53.290Z [info]: Incoming PATCH : /tickets/5b2be3ee-5d8b-4359-ba3b-a1ed26259009)}
+2025-09-18T19:50:53.443Z [info]: Ticket Found: 5b2be3ee-5d8b-4359-ba3b-a1ed26259009)}
+2025-09-18T19:50:53.444Z [info]: Ticket already resolved)}
+2025-09-18T19:52:17.679Z [info]: Incoming PATCH : /tickets/242025ba-0ae9-4e23-8394-0f02bfff4339)}
+2025-09-18T19:52:17.695Z [info]: Ticket Found: 242025ba-0ae9-4e23-8394-0f02bfff4339)}
+2025-09-19T01:36:43.320Z [info]: Server Started on PORT:3000)}
+2025-09-19T01:38:08.455Z [info]: Incoming POST : /login)}
+2025-09-19T01:38:08.628Z [info]: Could not find jojoa)}
+2025-09-19T01:38:08.629Z [info]: Login failed: username not found)}
+2025-09-19T01:39:26.893Z [info]: Incoming POST : /register)}
+2025-09-19T01:39:26.908Z [info]: Could not find zod)}
+2025-09-19T01:39:27.215Z [info]: User created zod)}
+2025-09-19T01:42:00.810Z [info]: Incoming POST : /register)}
+2025-09-19T01:42:00.924Z [info]: User: zod Found.)}
+2025-09-19T01:42:00.924Z [info]: Username already taken!)}
+2025-09-19T01:42:06.672Z [info]: Incoming POST : /login)}
+2025-09-19T01:42:06.692Z [info]: User: zod Found.)}
+2025-09-19T01:42:06.775Z [info]: Login successful for user "zod")}
+2025-09-19T01:42:15.033Z [info]: Incoming GET : /tickets)}
+2025-09-19T01:42:27.971Z [info]: Incoming POST : /tickets)}
+2025-09-19T01:42:27.973Z [error]: jwt expired)}
+2025-09-19T01:43:58.725Z [info]: Incoming POST : /tickets)}
+2025-09-19T01:43:58.804Z [info]: Ticket #4a7e6cea-66d9-4962-838f-360631b4bf0c Created By zod)}
+2025-09-19T01:46:46.297Z [info]: Server Started on PORT:3000)}
+2025-09-19T01:47:16.579Z [info]: Incoming POST : /tickets)}
+2025-09-19T01:47:16.755Z [info]: Ticket #c116aa79-fc17-424b-a904-cecc2f975219 Created By zod)}
+2025-09-19T01:48:00.865Z [info]: Server Started on PORT:3000)}
+2025-09-19T01:48:03.640Z [info]: Incoming POST : /tickets)}
+2025-09-19T01:48:03.817Z [info]: Ticket #bf25213b-3a75-4f07-8b9a-b5ee4c9411ea Created By zod)}
+2025-09-19T01:48:15.027Z [info]: Incoming POST : /tickets)}
+2025-09-19T01:48:22.107Z [info]: Incoming POST : /tickets)}
+2025-09-19T01:48:42.036Z [info]: Incoming GET : /tickets?status=pending)}
+2025-09-19T01:48:55.624Z [info]: Incoming GET : /tickets?status=approved)}
+2025-09-19T01:49:07.957Z [info]: Incoming GET : /tickets?status=denied)}
+2025-09-19T01:49:12.687Z [info]: Incoming GET : /tickets)}
+2025-09-19T01:49:31.325Z [info]: Incoming GET : /tickets?status=pendin)}
+2025-09-19T01:49:44.195Z [info]: Incoming PATCH : /tickets/242025ba-0ae9-4e23-8394-0f02bfff4339)}
+2025-09-19T01:49:44.219Z [info]: Ticket Found: 242025ba-0ae9-4e23-8394-0f02bfff4339)}
+2025-09-19T01:49:44.220Z [info]: Ticket already resolved)}
+2025-09-19T01:49:49.304Z [info]: Incoming PATCH : /tickets/5b2be3ee-5d8b-4359-ba3b-a1ed26259009)}
+2025-09-19T01:49:49.325Z [info]: Ticket Found: 5b2be3ee-5d8b-4359-ba3b-a1ed26259009)}
+2025-09-19T01:49:49.326Z [info]: Ticket already resolved)}
+2025-09-19T01:50:27.219Z [info]: Incoming PATCH : /tickets/4a7e6cea-66d9-4962-838f-360631b4bf0c)}
+2025-09-19T01:50:27.239Z [info]: Ticket Found: 4a7e6cea-66d9-4962-838f-360631b4bf0c)}
+2025-09-19T01:54:40.159Z [info]: Server Started on PORT:3000)}
+2025-09-19T01:54:45.150Z [info]: Incoming PATCH : /tickets/4a7e6cea-66d9-4962-838f-360631b4bf0c)}
+2025-09-19T01:58:38.161Z [info]: Server Started on PORT:3000)}
+2025-09-19T01:58:52.121Z [info]: Incoming PATCH : /tickets/4a7e6cea-66d9-4962-838f-360631b4bf0c)}
+2025-09-19T01:58:52.144Z [error]: jwt expired)}
+2025-09-19T01:58:59.916Z [info]: Incoming POST : /login)}
+2025-09-19T01:59:00.090Z [info]: User: zod Found.)}
+2025-09-19T01:59:00.188Z [info]: Login successful for user "zod")}
+2025-09-19T01:59:15.996Z [info]: Incoming PATCH : /tickets/4a7e6cea-66d9-4962-838f-360631b4bf0c)}
+2025-09-19T01:59:33.164Z [info]: Incoming GET : /tickets)}
+2025-09-19T02:00:10.376Z [info]: Incoming GET : /tickets/5b2be3ee-5d8b-4359-ba3b-a1ed26259009)}
+2025-09-19T02:00:10.394Z [info]: Ticket Found: 5b2be3ee-5d8b-4359-ba3b-a1ed26259009)}
+2025-09-19T02:00:20.019Z [info]: Incoming PATCH : /tickets/5b2be3ee-5d8b-4359-ba3b-a1ed26259009)}
+2025-09-19T02:00:28.190Z [info]: Incoming POST : /login)}
+2025-09-19T02:00:28.297Z [info]: User: rachel Found.)}
+2025-09-19T02:00:28.362Z [info]: Login successful for user "rachel")}
+2025-09-19T02:02:05.249Z [info]: Server Started on PORT:3000)}
+2025-09-19T02:02:10.404Z [info]: Incoming POST : /tickets)}
+2025-09-19T02:02:14.811Z [info]: Incoming POST : /tickets)}
+2025-09-19T02:02:22.330Z [info]: Incoming GET : /tickets?status=approved)}
+2025-09-19T02:02:35.693Z [info]: Incoming GET : /tickets?status=denied)}
+2025-09-19T02:02:55.659Z [info]: Incoming GET : /tickets?status=pendin)}
+2025-09-19T02:02:55.660Z [info]: Unsupported Action)}
+2025-09-19T02:03:09.840Z [info]: Incoming PATCH : /tickets/5b2be3ee-5d8b-4359-ba3b-a1ed26259009)}
+2025-09-19T02:03:19.752Z [info]: Incoming PATCH : /tickets/5b2be3ee-5d8b-4359-ba3b-a1ed26259009)}
+2025-09-19T02:03:19.766Z [info]: Ticket Found: 5b2be3ee-5d8b-4359-ba3b-a1ed26259009)}
+2025-09-19T02:03:19.766Z [info]: Ticket already resolved)}
+2025-09-19T02:03:28.711Z [info]: Incoming GET : /tickets)}
+2025-09-19T02:03:28.713Z [info]: Unsupported Action)}
+2025-09-19T02:03:54.385Z [info]: Incoming POST : /login)}
+2025-09-19T02:03:54.454Z [info]: User: zod Found.)}
+2025-09-19T02:03:54.520Z [info]: Login successful for user "zod")}
+2025-09-19T02:03:57.773Z [info]: Incoming GET : /tickets)}
+2025-09-19T02:09:57.265Z [info]: Server Started on PORT:3000)}
+2025-09-19T02:10:02.754Z [info]: Incoming POST : /login)}
+2025-09-19T02:10:02.945Z [info]: User: rachel Found.)}
+2025-09-19T02:10:03.009Z [info]: Login successful for user "rachel")}
+2025-09-19T02:10:07.911Z [info]: Incoming GET : /tickets)}
+2025-09-19T02:10:21.842Z [info]: Incoming PATCH : /tickets/5b2be3ee-5d8b-4359-ba3b-a1ed26259009)}
+2025-09-19T02:10:21.876Z [info]: Ticket Found: 5b2be3ee-5d8b-4359-ba3b-a1ed26259009)}
+2025-09-19T02:10:21.876Z [info]: Ticket already resolved)}
+2025-09-19T02:10:59.991Z [info]: Incoming POST : /login)}
+2025-09-19T02:11:00.006Z [info]: Could not find idontexist)}
+2025-09-19T02:11:00.006Z [info]: Login failed: username not found)}
+2025-09-19T02:11:14.311Z [info]: Incoming POST : /login)}
+2025-09-19T02:11:14.332Z [info]: User: zod Found.)}
+2025-09-19T02:11:14.396Z [info]: Login failed: incorrect password)}
+2025-09-19T02:11:19.165Z [info]: Incoming POST : /login)}
+2025-09-19T02:11:19.184Z [info]: Could not find idontexist)}
+2025-09-19T02:11:19.184Z [info]: Login failed: username not found)}
+2025-09-19T14:07:00.799Z [info]: Server Started on PORT:3000)}
+2025-09-19T14:24:49.825Z [info]: Server Started on PORT:3000)}
+2025-09-19T14:24:59.820Z [info]: Incoming POST : /register)}
+2025-09-19T14:25:00.075Z [info]: User: zod Found.)}
+2025-09-19T14:25:00.076Z [info]: Username already taken!)}
+2025-09-19T14:25:08.510Z [info]: Incoming POST : /login)}
+2025-09-19T14:25:08.526Z [info]: User: zod Found.)}
+2025-09-19T14:25:08.631Z [info]: Login successful for user "zod")}
+2025-09-19T14:25:41.398Z [info]: Incoming GET : /tickets?status=pending)}
+2025-09-19T14:25:49.492Z [info]: Incoming GET : /tickets?status=approved)}
+2025-09-19T14:25:53.822Z [info]: Incoming GET : /tickets?status=denied)}
+2025-09-19T14:26:04.459Z [info]: Incoming PATCH : /tickets/242025ba-0ae9-4e23-8394-0f02bfff4339)}
+2025-09-19T14:27:53.519Z [info]: Incoming POST : /tickets)}
+2025-09-19T14:27:53.654Z [info]: Ticket #0b0233fb-4f64-4fb2-81ba-0c7b010175cb Created By zod)}
+2025-09-19T14:28:19.450Z [info]: Incoming POST : /login)}
+2025-09-19T14:28:19.557Z [info]: User: rachel Found.)}
+2025-09-19T14:28:19.624Z [info]: Login successful for user "rachel")}
+2025-09-19T14:28:35.743Z [info]: Incoming PATCH : /tickets/0b0233fb-4f64-4fb2-81ba-0c7b010175cb)}
+2025-09-19T14:28:35.773Z [info]: Ticket Found: 0b0233fb-4f64-4fb2-81ba-0c7b010175cb)}
+2025-09-19T14:28:47.671Z [info]: Incoming POST : /login)}
+2025-09-19T14:28:47.686Z [info]: User: zod Found.)}
+2025-09-19T14:28:47.755Z [info]: Login successful for user "zod")}
+2025-09-19T14:28:57.110Z [info]: Incoming GET : /tickets?status=approved)}
+2025-09-19T14:29:01.398Z [info]: Incoming GET : /tickets)}
+2025-09-19T14:29:19.485Z [info]: Incoming POST : /tickets)}
+2025-09-19T14:29:25.157Z [info]: Incoming POST : /tickets)}
+2025-09-19T14:30:34.190Z [info]: Incoming POST : /login)}
+2025-09-19T14:30:34.204Z [info]: User: rachel Found.)}
+2025-09-19T14:30:34.275Z [info]: Login successful for user "rachel")}
+2025-09-19T14:30:39.496Z [info]: Incoming GET : /tickets)}
+2025-09-19T14:30:51.448Z [info]: Incoming GET : /tickets?status=approved)}
+2025-09-19T14:30:58.571Z [info]: Incoming GET : /tickets?status=pendin)}
+2025-09-19T14:30:58.574Z [info]: Unsupported Action)}
+2025-09-19T14:31:29.919Z [info]: Incoming PATCH : /tickets/5b2be3ee-5d8b-4359-ba3b-a1ed26259009)}
+2025-09-19T14:31:40.159Z [info]: Incoming PATCH : /tickets/5b2be3ee-5d8b-4359-ba3b-a1ed26259009)}
+2025-09-19T14:31:40.171Z [info]: Ticket Found: 5b2be3ee-5d8b-4359-ba3b-a1ed26259009)}
+2025-09-19T14:31:40.171Z [info]: Ticket already resolved)}
+2025-09-19T14:31:40.852Z [info]: Incoming PATCH : /tickets/5b2be3ee-5d8b-4359-ba3b-a1ed26259009)}
+2025-09-19T14:31:40.869Z [info]: Ticket Found: 5b2be3ee-5d8b-4359-ba3b-a1ed26259009)}
+2025-09-19T14:31:40.869Z [info]: Ticket already resolved)}
+2025-09-19T14:36:35.472Z [info]: Server Started on PORT:3000)}
+2025-09-19T14:36:46.344Z [info]: Incoming POST : /register)}
+2025-09-19T14:37:10.548Z [info]: Incoming POST : /register)}
+2025-09-19T14:37:10.733Z [info]: Could not find bobb)}
+2025-09-19T14:37:10.835Z [info]: User created bobb)}
+2025-09-19T14:38:42.876Z [info]: Server Started on PORT:3000)}
+2025-09-19T14:38:51.492Z [info]: Incoming POST : /register)}
+2025-09-19T14:39:50.221Z [info]: Incoming POST : /register)}
+2025-09-19T14:39:50.438Z [info]: Could not find bobbbert)}
+2025-09-19T14:39:50.521Z [info]: User created bobbbert)}
+2025-09-19T14:42:13.603Z [info]: Server Started on PORT:3000)}
+2025-09-19T14:42:30.588Z [info]: Incoming POST : /login)}
+2025-09-19T14:42:30.841Z [info]: User: rachel Found.)}
+2025-09-19T14:42:30.910Z [info]: Login successful for user "rachel")}
+2025-09-19T14:42:37.004Z [info]: Incoming GET : /tickets?status=pending)}
+2025-09-19T14:42:46.418Z [info]: Incoming GET : /tickets?status=approved)}
+2025-09-19T14:49:01.651Z [info]: Incoming POST : /tickets)}
+2025-09-19T14:50:34.531Z [info]: Server Started on PORT:3000)}
+2025-09-19T14:52:21.279Z [info]: Incoming POST : /login)}
+2025-09-19T14:52:21.471Z [info]: User: zod Found.)}
+2025-09-19T14:52:21.540Z [info]: Login successful for user "zod")}
+2025-09-19T14:52:27.543Z [info]: Incoming POST : /tickets)}
+2025-09-19T15:03:15.974Z [info]: Server Started on PORT:3000)}
+2025-09-19T15:03:25.162Z [info]: Incoming POST : /login)}
+2025-09-19T15:03:25.361Z [info]: User: rachel Found.)}
+2025-09-19T15:03:25.427Z [info]: Login successful for user "rachel")}
+2025-09-19T15:03:32.019Z [info]: Incoming GET : /tickets?status=approved&username=zod)}
+2025-09-19T15:10:19.219Z [info]: Server Started on PORT:3000)}
+2025-09-19T15:10:28.738Z [info]: Incoming POST : /login)}
+2025-09-19T15:10:28.903Z [info]: User: rachel Found.)}
+2025-09-19T15:10:28.970Z [info]: Login successful for user "rachel")}
+2025-09-19T15:10:40.884Z [info]: Incoming GET : /tickets?status=approved&username=zod)}
+2025-09-19T15:10:40.910Z [info]: User: zod Found.)}
+2025-09-19T15:10:40.911Z [info]: Cannot find username)}
+2025-09-19T15:11:17.614Z [info]: Server Started on PORT:3000)}
+2025-09-19T15:11:22.249Z [info]: Incoming GET : /tickets?status=approved&username=zod)}
+2025-09-19T15:11:22.444Z [info]: User: zod Found.)}
+2025-09-19T15:12:18.997Z [info]: Server Started on PORT:3000)}
+2025-09-19T15:12:23.742Z [info]: Incoming GET : /tickets?status=approved&username=zod)}
+2025-09-19T15:12:23.938Z [info]: User: zod Found.)}
+2025-09-19T15:12:40.767Z [info]: Incoming GET : /tickets?status=pending&username=zod)}
+2025-09-19T15:12:40.797Z [info]: User: zod Found.)}
+2025-09-19T15:12:49.670Z [info]: Incoming POST : /login)}
+2025-09-19T15:12:49.682Z [info]: User: zod Found.)}
+2025-09-19T15:12:49.751Z [info]: Login successful for user "zod")}
+2025-09-19T15:12:53.778Z [info]: Incoming GET : /tickets?status=pending&username=zod)}
+2025-09-19T15:13:03.705Z [info]: Incoming GET : /tickets?status=pending)}
+2025-09-19T15:38:54.811Z [info]: Server Started on PORT:3000)}
+2025-09-19T15:39:23.670Z [info]: Incoming POST : /login)}
+2025-09-19T15:39:23.908Z [info]: User: zod Found.)}
+2025-09-19T15:39:23.996Z [info]: Login successful for user "zod")}
+2025-09-19T15:39:29.246Z [info]: Incoming POST : /tickets)}
+2025-09-19T15:39:29.328Z [info]: Ticket #efa71bca-8df4-4c8c-88ce-e72a5f778a2e Created By zod)}
+2025-09-19T15:39:57.960Z [info]: Incoming POST : /tickets)}
+2025-09-19T15:39:57.987Z [info]: Ticket #d2e88871-9e2b-4944-8261-8fadb7d9db3c Created By zod)}
+2025-09-19T15:44:08.036Z [info]: Server Started on PORT:3000)}
+2025-09-19T15:44:49.088Z [info]: Incoming POST : /register)}
+2025-09-19T15:44:49.284Z [info]: Could not find beluga)}
+2025-09-19T15:44:49.393Z [info]: User created beluga)}
+2025-09-19T15:45:00.377Z [info]: Incoming POST : /register)}
+2025-09-19T15:45:00.392Z [info]: User: zod Found.)}
+2025-09-19T15:45:00.392Z [info]: Username already taken!)}
+2025-09-19T15:45:16.525Z [info]: Incoming POST : /login)}
+2025-09-19T15:45:16.558Z [info]: Could not find idontexist)}
+2025-09-19T15:45:16.559Z [info]: Login failed: username not found)}
+2025-09-19T15:45:23.454Z [info]: Incoming POST : /login)}
+2025-09-19T15:45:23.472Z [info]: User: zod Found.)}
+2025-09-19T15:45:23.549Z [info]: Login successful for user "zod")}
+2025-09-19T15:45:44.513Z [info]: Incoming POST : /tickets)}
+2025-09-19T15:45:44.739Z [info]: Ticket #9711e728-07df-4b77-b6df-6ee8566526ee Created By zod)}
+2025-09-19T15:45:53.810Z [info]: Incoming POST : /tickets)}
+2025-09-19T15:46:02.631Z [info]: Incoming POST : /tickets)}
+2025-09-19T15:46:16.804Z [info]: Incoming GET : /tickets)}
+2025-09-19T15:46:44.538Z [info]: Incoming POST : /login)}
+2025-09-19T15:46:44.618Z [info]: User: rachel Found.)}
+2025-09-19T15:46:44.686Z [info]: Login successful for user "rachel")}
+2025-09-19T15:46:53.769Z [info]: Incoming POST : /tickets)}
+2025-09-19T15:47:10.393Z [info]: Incoming GET : /tickets?status=pending&username=zod)}
+2025-09-19T15:47:10.410Z [info]: User: zod Found.)}
+2025-09-19T15:47:27.334Z [info]: Incoming GET : /tickets?status=approved&username=zod)}
+2025-09-19T15:47:27.353Z [info]: User: zod Found.)}
+2025-09-19T15:47:37.310Z [info]: Incoming PATCH : /tickets/efa71bca-8df4-4c8c-88ce-e72a5f778a2e)}
+2025-09-19T15:47:37.325Z [info]: Ticket Found: efa71bca-8df4-4c8c-88ce-e72a5f778a2e)}
+2025-09-19T15:47:43.247Z [info]: Incoming PATCH : /tickets/d2e88871-9e2b-4944-8261-8fadb7d9db3c)}
+2025-09-19T15:47:43.263Z [info]: Ticket Found: d2e88871-9e2b-4944-8261-8fadb7d9db3c)}
+2025-09-19T15:47:53.343Z [info]: Incoming PATCH : /tickets/5b2be3ee-5d8b-4359-ba3b-a1ed26259009)}
+2025-09-19T15:48:03.943Z [info]: Incoming PATCH : /tickets/5b2be3ee-5d8b-4359-ba3b-a1ed26259009)}
+2025-09-19T15:48:03.957Z [info]: Ticket Found: 5b2be3ee-5d8b-4359-ba3b-a1ed26259009)}
+2025-09-19T15:48:03.958Z [info]: Ticket already resolved)}
+2025-09-19T15:48:16.271Z [info]: Incoming GET : /tickets?status=pending)}
+2025-09-19T15:48:24.933Z [info]: Incoming GET : /tickets?status=approved)}
+2025-09-19T15:48:29.733Z [info]: Incoming GET : /tickets?status=denied)}
+2025-09-19T15:48:44.478Z [info]: Incoming GET : /tickets?status=pendin)}
+2025-09-19T15:48:44.481Z [info]: Unsupported Action)}
+2025-09-19T15:48:54.334Z [info]: Incoming GET : /tickets)}
+2025-09-19T15:49:05.142Z [info]: Incoming POST : /login)}
+2025-09-19T15:49:05.217Z [info]: User: zod Found.)}
+2025-09-19T15:49:05.280Z [info]: Login successful for user "zod")}
+2025-09-19T15:49:12.337Z [info]: Incoming GET : /tickets?status=pending)}
+2025-09-19T15:49:19.194Z [info]: Incoming GET : /tickets?status=approved)}
+2025-09-19T15:49:24.518Z [info]: Incoming GET : /tickets?status=denied)}
+2025-09-19T15:49:39.809Z [info]: Incoming POST : /login)}
+2025-09-19T15:49:39.821Z [info]: User: zod Found.)}
+2025-09-19T15:49:39.885Z [info]: Login successful for user "zod")}
+2025-09-19T15:49:46.837Z [info]: Incoming PATCH : /tickets/efa71bca-8df4-4c8c-88ce-e72a5f778a2e)}
+2025-09-19T15:49:57.466Z [info]: Incoming GET : /tickets?status=pending&username=zod)}
