@@ -48,9 +48,23 @@ function validateUpdate(req, res, next) {
   next();
 }
 
+function restrictEmployeeUsernameQuery(req, res, next) {
+  const { role } = req.user;
+  const { username } = req.query;
+
+  if (role === "employee" && username) {
+    return res
+      .status(403)
+      .json({ message: "Employees cannot query tickets of other users" });
+  }
+
+  next();
+}
+
 export default {
   validateTicket,
   validateUpdate,
   authorizeEmployee,
   authorizeManager,
+  restrictEmployeeUsernameQuery,
 };

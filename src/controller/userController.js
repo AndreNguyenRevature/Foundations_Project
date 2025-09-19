@@ -1,6 +1,7 @@
 import express from "express";
 import userService from "../service/userService.js";
 import tryCatch from "../util/tryCatch.js";
+import userMiddleware from "../middleware/userMiddleware.js";
 
 const router = express.Router();
 
@@ -24,7 +25,7 @@ router.post("/register", validateInput, async (req, res) => {
   }
 });
 
-router.post("/login", validateInput, async (req, res) => {
+router.post("/login", userMiddleware.validateInput, async (req, res) => {
   const { username, password } = req.body;
   const { data, err } = await tryCatch(userService.login(username, password));
 
@@ -32,31 +33,5 @@ router.post("/login", validateInput, async (req, res) => {
 
   res.status(200).json({ message: "Login Successful", data });
 });
-
-function validateInput(req, res, next) {
-  const username = req.body.username;
-  const password = req.body.password;
-  
-  if (
-    username === undefined ||
-    username === null ||
-    password === undefined ||
-    password === null
-  ) {
-    return res
-      .status(422)
-      .json({ message: "Username and password are required" });
-  }
-
-  const validLength = username?.length > 0 && password?.length > 0;
-  const noSpaces = !username.includes(" ") && !password.includes(" ");
-  const isValid = noSpaces && validLength;
-
-  if (isValid) {
-    next();
-  } else {
-    res.status(422).json({ message: "Invalid username or password" });
-  }
-}
 
 export default router;
