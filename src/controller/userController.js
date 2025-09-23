@@ -5,7 +5,7 @@ import userMiddleware from "../middleware/userMiddleware.js";
 
 const router = express.Router();
 
-router.post("/register", validateInput, async (req, res) => {
+router.post("/register", userMiddleware.validateInput, async (req, res) => {
   const { username, password, role } = req.body;
 
   const { data: user, err } = await tryCatch(

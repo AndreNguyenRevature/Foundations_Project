@@ -684,3 +684,8 @@
 2025-09-19T15:49:39.885Z [info]: Login successful for user "zod")}
 2025-09-19T15:49:46.837Z [info]: Incoming PATCH : /tickets/efa71bca-8df4-4c8c-88ce-e72a5f778a2e)}
 2025-09-19T15:49:57.466Z [info]: Incoming GET : /tickets?status=pending&username=zod)}
+2025-09-23T01:40:35.946Z [info]: Server Started on PORT:3000)}
+2025-09-23T01:41:19.399Z [info]: Incoming POST : /login)}
+2025-09-23T01:41:19.610Z [info]: User: zod Found.)}
+2025-09-23T01:41:19.698Z [info]: Login successful for user "zod")}
+2025-09-23T01:41:25.971Z [info]: Incoming GET : /tickets)}
